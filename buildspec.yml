@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - S3://kvsrrbuildartifacts/SpringBootHelloWorld-0.0.1-SNAPSHOT.jar
+    - s3://kvsrrbuildartifacts/SpringBootHelloWorld-0.0.1-SNAPSHOT.jar
